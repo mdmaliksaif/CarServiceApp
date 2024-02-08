@@ -1,0 +1,15 @@
+
+  .custom-table th, .custom-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .custom-table .ant-table-thead > tr > th {
+    background-color: white; 
+  }
+
+  .custom-table td{
+    background-color: #f2f2f2;
+  }
+  
